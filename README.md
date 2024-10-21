@@ -90,7 +90,7 @@ metrics=pd.DataFrame(autoencoder.history.history)
 plt.figure(figsize=(7,2.5))
 plt.plot(metrics['loss'], label='Training Loss')
 plt.plot(metrics['val_loss'], label='Validation Loss')
-plt.title('Training Loss vs. Validation Loss\DEEPIKA S - 212222230028')
+plt.title('Training Loss vs. Validation Loss\Soundariyan MN - 212222230146')
 ```
 ##### Predicting the model
 ```Python
